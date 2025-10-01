@@ -9,6 +9,7 @@ A **fully self-contained**, **interactive** simulation of the classic **inverted
 ## 📚 Table of Contents
 - [Mathematical Background](#-mathematical-background)
 - [Fuzzy Logic Implementation](#-fuzzy-logic-implementation)
+- [Force (Output) Universe](#force-output-universe)
 - [Code Structure](#-code-structure)
 - [How to Use](#-how-to-use)
 - [Requirements](#-requirements)
