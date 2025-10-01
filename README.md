@@ -14,7 +14,6 @@ A **fully self-contained**, **interactive** simulation of the classic **inverted
 - Code Structure
 - How to Use
 - Requirements
-- License
 
 ---
 
