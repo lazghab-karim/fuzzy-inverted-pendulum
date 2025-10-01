@@ -7,13 +7,14 @@ A **fully self-contained**, **interactive** simulation of the classic **inverted
 ---
 
 ## 📚 Table of Contents
-- [Mathematical Background](#-mathematical-background)
-- [Fuzzy Logic Implementation](#-fuzzy-logic-implementation)
-- [Force (Output) Universe](#force-output-universe)
-- [Code Structure](#-code-structure)
-- [How to Use](#-how-to-use)
-- [Requirements](#-requirements)
-- [License](#-license)
+- Mathematical Background
+- Fuzzy Universes and Membership Functions
+- Fuzzy Logic Implementation
+- Force (Output) Universe
+- Code Structure
+- How to Use
+- Requirements
+- License
 
 ---
 
@@ -197,4 +198,5 @@ pip install numpy matplotlib
 ---
 
 **Author**: Karim Lazghab 
+
 **Last Updated**: October 2025
